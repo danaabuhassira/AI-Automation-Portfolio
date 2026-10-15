@@ -79,7 +79,7 @@ Google Forms · Zapier · AI by Zapier · Paths by Zapier · Google Sheets · Gm
 **My role:**  
 I chose the problem and designed the workflow: meeting notes are submitted through a form, AI extracts the key fields (action item, owner, deadline, meeting summary, missing information, request status), and the flow then splits into a valid path, which logs a row and sends a follow-up email, and a fallback path, which alerts the organizer to complete the missing details.
 
-🔗 [View Project](./https://github.com/danaabuhassira/Meeting-Follow-up-Automation/tree/main/1-As1)
+🔗 [View Project](https://github.com/danaabuhassira/Meeting-Follow-up-Automation/tree/main/1-As1)
 
 ---
 
